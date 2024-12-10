@@ -53,13 +53,16 @@ Box Plots: Distribution of transaction values.
 Highlight which products or regions contribute most sales.
 
 ### Toolkit used for the project: 
-**Data Analysis and Visualization Toolkit**
+Data Analysis and Visualization Toolkit
 
-**Libraries:**
+### Libraries:
 
 **pandas:**  Used for data manipulation
+
 **numpy:** Used for numerical computation
+
 **matplotlib and seaborn:** Used for data visualization
+
 
 ![image](https://github.com/user-attachments/assets/1de7a5a7-b74d-45a2-a102-eb067b77181e)
 
