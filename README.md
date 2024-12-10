@@ -9,19 +9,19 @@
 **Duration:** 10 November 2024 - 25 December 2024
 
 
-**Project Overview**
+### Project Overview
 
-**Project : Exploratory Data Analysis on Diwali Sales**
+### Project: Exploratory Data Analysis on Diwali Sales
 
-**About the Project:**
+### About the Project:
 
 Exploratory Data Analysis on Diwali Sales delves into customer behavior and sales trends during the one of the most significant shopping seasons of the year.
 
-**Objective:** 
+### Objective: 
 
 The main objective of this project is to analyze prominent patterns such as which gender is more active in making purchases, which age group leads in terms of purchase volume, which product is bought the most, which type of occupation has the highest number of buyers and how sales is varied across different states.
 
-**Key Activities:**
+### Key Activities:
 
 **1. Data Understanding and Cleaning**
 
@@ -52,17 +52,18 @@ Box Plots: Distribution of transaction values.
 
 Highlight which products or regions contribute most sales.
 
-**Toolkit used for the project:** **Data Analysis and Visualization Toolkit**
+### Toolkit used for the project: 
+**Data Analysis and Visualization Toolkit**
 
 **Libraries:**
 
-**pandas : **Used for data manipulation
-**numpy : **Used for numerical computation
-**matplotlib and seaborn : **Used for data visualization
+**pandas:**  Used for data manipulation
+**numpy:** Used for numerical computation
+**matplotlib and seaborn:** Used for data visualization
 
 ![image](https://github.com/user-attachments/assets/1de7a5a7-b74d-45a2-a102-eb067b77181e)
 
-**After importing the libraries:**
+### After importing the libraries:
 
 **1.Loading the data:**
 
@@ -96,7 +97,7 @@ For example, let's rename a column
 
 After completing these steps, we can proceed to perform exploratory data analysis to uncover patterns, trends, and insights within the dataset.
 
-✭➸ⅰ To visualize the distribution of gender in the dataset, we can plot a bar chart using Seaborn's countplot function, which will display the count of each gender category.
+-📈 To visualize the distribution of gender in the dataset, we can plot a bar chart using Seaborn's countplot function, which will display the count of each gender category.
 
 
 
