@@ -140,7 +140,7 @@ After completing these steps, we can proceed to perform exploratory data analysi
 
 ![image](https://github.com/user-attachments/assets/3728b671-1d3d-483c-971b-0f8bda70f76e)
 
-**###Conclusion:**
+### Conclusion
 
 The exploratory data analysis (EDA) of Diwali sales revealed key insights into customer preferences, including popular products and spending patterns across demographics. It highlighted regional variations and correlations between factors like age, gender, and marital status with sales.These findings can inform targeted marketing strategies for future Diwali campaigns.
 
