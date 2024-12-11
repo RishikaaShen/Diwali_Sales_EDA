@@ -52,16 +52,16 @@ Box Plots: Distribution of transaction values.
 
 Highlight which products or regions contribute most sales.
 
-### Toolkit used for the project: 
+### 🛠️ Toolkit used for the project: 
 Data Analysis and Visualization Toolkit
 
-### Libraries:
+### 📚 Libraries:
 
-**pandas:**  Used for data manipulation
+🔧 **pandas:**  Used for data manipulation
 
-**numpy:** Used for numerical computation
+🔧 **numpy:** Used for numerical computation
 
-**matplotlib and seaborn:** Used for data visualization
+🔧 **matplotlib and seaborn:** Used for data visualization
 
 
 ![image](https://github.com/user-attachments/assets/1de7a5a7-b74d-45a2-a102-eb067b77181e)
@@ -100,7 +100,7 @@ For example, let's rename a column
 
 After completing these steps, we can proceed to perform exploratory data analysis to uncover patterns, trends, and insights within the dataset.
 
--📈 To visualize the distribution of gender in the dataset, we can plot a bar chart using Seaborn's countplot function, which will display the count of each gender category.
+-📈To visualize the distribution of gender in the dataset, we can plot a bar chart using Seaborn's countplot function, which will display the count of each gender category.
 
 ![image](https://github.com/user-attachments/assets/c1c2ee7a-9cb8-4f61-9b01-1aa055915638)
 
