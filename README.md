@@ -102,8 +102,46 @@ After completing these steps, we can proceed to perform exploratory data analysi
 
 -📈 To visualize the distribution of gender in the dataset, we can plot a bar chart using Seaborn's countplot function, which will display the count of each gender category.
 
+![image](https://github.com/user-attachments/assets/c1c2ee7a-9cb8-4f61-9b01-1aa055915638)
 
+-📈To visualize the distribution of the total amount across different genders, helping to identify trends or disparities in spending behavior based on gender.
 
+![image](https://github.com/user-attachments/assets/1558eb8a-23b0-433a-b963-45672cc3d4d7)
 
+-📈To visualize the distribution of data across different age groups.
+
+![image](https://github.com/user-attachments/assets/6ca75d59-b3a6-4506-ba7c-ae6e9e44d866)
+
+-📈To visualize the relationship between age groups and the total amount, highlighting spending patterns or trends across various age categories.
+
+![image](https://github.com/user-attachments/assets/dc9f8a02-11bd-4022-b0e5-2dbdb447f862)
+
+-📈To visualize the total number of orders from the top 10 states, providing insights into the geographical distribution of orders and identifying key regions with high demand.
+
+![image](https://github.com/user-attachments/assets/dedd11d6-5360-4c2e-afc7-cbb1fdcbc3a3)
+
+-📈To visualize the total amount or sales from the top 5 states, highlighting the regions contributing the most to overall revenue.
+
+![image](https://github.com/user-attachments/assets/2c4d57ee-8036-4e8e-a7b5-9ffaa10bf817)
+
+-📈To visualize the distribution of data based on marital status, providing insights into the representation or behavior of different marital groups.
+
+![image](https://github.com/user-attachments/assets/5e7ea262-c7f4-4b8b-83a3-1294821d4308)
+
+-📈To visualize the distribution of data across different occupations, providing insights into the representation or trends within various professional categories.
+
+![image](https://github.com/user-attachments/assets/dd180097-7f50-4496-9b6b-3df086be7813)
+
+-📈To visualize the distribution of data across different product categories, highlighting the popularity or sales trends of various categories.
+
+![image](https://github.com/user-attachments/assets/3a9fc29f-9c4d-4324-9d33-da624098dd9b)
+
+-📈To visualize the top 10 most sold products, showcasing their sales volume and highlighting the most popular items among customers.
+
+![image](https://github.com/user-attachments/assets/3728b671-1d3d-483c-971b-0f8bda70f76e)
+
+**###Conclusion:**
+
+The exploratory data analysis (EDA) of Diwali sales revealed key insights into customer preferences, including popular products and spending patterns across demographics. It highlighted regional variations and correlations between factors like age, gender, and marital status with sales.These findings can inform targeted marketing strategies for future Diwali campaigns.
 
 
